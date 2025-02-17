@@ -41,6 +41,7 @@ This project focuses on analyzing and visualizing **user engagement metrics** at
 │── 📊 Dashboards (Google Looker Link)
 ```
 ## 📸 Dashboard Screenshots
-![Platform Signups Dashboard] (https://github.com/user-attachments/assets/fbf554df-7335-4800-8b68-6138d16bce5d)
+![Platform Signups Dashboard](https://github.com/user-attachments/assets/1858aaa4-e07c-49b3-add5-77a585b7950b)
+
 ![Opportunity Signups Dashboard](https://github.com/user-attachments/assets/0dc69e69-9e98-42b9-9def-44ea0585b909)
 
