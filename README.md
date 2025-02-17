@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project focuses on analyzing and visualizing user engagement metrics at Excelerate. It includes dashboards that track platform sign-ups, opportunity enrollments, and user behavior trends. The goal is to derive actionable insights for strategic decision-making and user retention.
+This project focuses on analyzing and visualizing **user engagement metrics** at **Excelerate**. It includes dashboards that track **platform sign-ups**, **opportunity enrollments**, and **user behavior trends**. The goal is to derive actionable insights for strategic decision-making and user retention.
 
 ## 📌 Key Features
 ### 1. Opportunities Signups Dashboard
@@ -21,3 +21,25 @@ This project focuses on analyzing and visualizing user engagement metrics at Exc
 - Most Preferred Sponsors: Displays the top sponsors preferred by users.
 - User Signups by Degree: Distribution of signups based on education levels such as undergraduate, graduate, and professionals.
 - User Signups Over Time: Timeline analysis of user registration trends across different countries.
+
+## 🛠️ Tech Stack
+- MS-Excel - Data Cleaning & Preprocessing
+- Google Sheets - Data Organization & Analysis
+- Google Looker - Data Visualization
+
+## 🎯 Key Insights
+- A significant number of users signed up for **Data Visualization**, **Project Management**, and **Machine Learning** opportunities.
+- **Critical Thinking** and **Communication** were among the top skills earned.
+- **Excelerate**, **Illinois Institute of Technology**, and **University of St. Louis** were the most preferred sponsors.
+- Signups spiked at various points in time, likely due to marketing efforts or seasonal enrollment trends.
+
+## 📂 Project Structure
+```
+📁 User-Engagement-Analytics-Dashboard
+│── 📄 Data (CSV, Excel files)
+│── 📜 README.md (Project documentation)
+│── 📊 Dashboards (Google Looker Link)
+```
+## 📸 Dashboard Screenshots
+![Platform Signups Dashboard](https://github.com/user-attachments/assets/fbf554df-7335-4800-8b68-6138d16bce5d)
+![Opportunity Signups Dashboard](https://github.com/user-attachments/assets/a94cb9ee-9875-4a44-9aee-0b692d34a004)
