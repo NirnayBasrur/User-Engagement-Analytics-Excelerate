@@ -27,11 +27,15 @@ This project focuses on analyzing and visualizing **user engagement metrics** at
 - Google Sheets - Data Organization & Analysis
 - Google Looker - Data Visualization
 
-## 🎯 Key Insights
-- A significant number of users signed up for **Data Visualization**, **Project Management**, and **Machine Learning** opportunities.
-- **Critical Thinking** and **Communication** were among the top skills earned.
-- **Excelerate**, **Illinois Institute of Technology**, and **University of St. Louis** were the most preferred sponsors.
-- Signups spiked at various points in time, likely due to marketing efforts or seasonal enrollment trends.
+## 🎯 Key Insights & Takeaways
+- **High Signups** in Data Visualization, Project Management & Machine Learning.
+- **Top Skills**: Critical Thinking, Communication & Collaboration.
+- **Diverse Gender Representation** with significant male & female users.
+- **Signup Spikes** due to marketing, seasonal trends & partnerships.
+- **Top Sponsors**: Excelerate, Illinois Institute of Technology & St. Louis Univ.
+- **Global Reach** with users from multiple countries & key US cities.
+- **Google Looker** enabled **real-time data visualization & interactive analytics** for tracking user engagement trends.
+- **Data-Driven Insights** for better engagement tracking & decision-making.
 
 ## 📂 Project Structure
 ```
@@ -41,8 +45,17 @@ This project focuses on analyzing and visualizing **user engagement metrics** at
 │── 📊 Dashboards (Google Looker Link)
 ```
 ## 📸 Dashboard Screenshots
-![Platform Signups Dashboard](https://github.com/user-attachments/assets/1858aaa4-e07c-49b3-add5-77a585b7950b)
-![Opportunity Signups Dashboard](https://github.com/user-attachments/assets/0dc69e69-9e98-42b9-9def-44ea0585b909)
+![Platform Signups Dashboard]
+(https://github.com/user-attachments/assets/1858aaa4-e07c-49b3-add5-77a585b7950b)
+![Opportunity Signups Dashboard]
+(https://github.com/user-attachments/assets/0dc69e69-9e98-42b9-9def-44ea0585b909)
 
 ## 🔗 Live Demo & Report
-*(https://lookerstudio.google.com/reporting/d97e4fbb-dec9-4c30-9117-5babdb058c44)*
+*https://lookerstudio.google.com/reporting/d97e4fbb-dec9-4c30-9117-5babdb058c44*
+
+## Author
+Nirnay Basrur
+Role: Data Analyst Intern
+Contact: nirnaybasrur@gmail.com | https://www.linkedin.com/in/nirnay-basrur
+
+📌 **Feel free to fork, contribute, or share feedback!**
