@@ -42,4 +42,5 @@ This project focuses on analyzing and visualizing **user engagement metrics** at
 ```
 ## 📸 Dashboard Screenshots
 ![Platform Signups Dashboard] (https://github.com/user-attachments/assets/fbf554df-7335-4800-8b68-6138d16bce5d)
-![Opportunity Signups Dashboard] (https://github.com/user-attachments/assets/a94cb9ee-9875-4a44-9aee-0b692d34a004)
+![Opportunity Signups Dashboard](https://github.com/user-attachments/assets/0dc69e69-9e98-42b9-9def-44ea0585b909)
+
