@@ -53,8 +53,8 @@ This project focuses on analyzing and visualizing **user engagement metrics** at
 *https://lookerstudio.google.com/reporting/d97e4fbb-dec9-4c30-9117-5babdb058c44*
 
 ## Author
-Nirnay Basrur
-Role: Data Analyst Intern
-Contact: nirnaybasrur@gmail.com | https://www.linkedin.com/in/nirnay-basrur
+-- Nirnay Basrur
+-- Role: Data Analyst Intern
+-- Contact: nirnaybasrur@gmail.com | https://www.linkedin.com/in/nirnay-basrur
 
 📌 **Feel free to fork, contribute, or share feedback!**
