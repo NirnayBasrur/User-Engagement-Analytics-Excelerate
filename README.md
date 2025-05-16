@@ -48,6 +48,7 @@ This was a collaborative project completed during my internship at Excelerate, w
 │── 📄 Data (CSV, Excel files)
 │── 📜 README.md (Project documentation)
 │── 📊 Dashboards (Google Looker Link)
+│── 🎞️ Presentation (PPT showcasing visual storytelling & final insights)
 ```
 ## 📸 Dashboard Screenshots
 ![Platform Signups Dashboard](https://github.com/user-attachments/assets/1858aaa4-e07c-49b3-add5-77a585b7950b)
