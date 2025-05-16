@@ -1,7 +1,6 @@
 # User Engagement Analytics Dashboard
 
 ## 📊 Project Overview
-
 This project focuses on analyzing and visualizing **user engagement metrics** at **Excelerate**. It includes dashboards that track **platform sign-ups**, **opportunity enrollments**, and **user behavior trends**. The goal is to derive actionable insights for strategic decision-making and user retention.
 
 ## 📌 Key Features
@@ -32,10 +31,16 @@ This project focuses on analyzing and visualizing **user engagement metrics** at
 - **Top Skills**: Critical Thinking, Communication & Collaboration.
 - **Diverse Gender Representation** with significant male & female users.
 - **Signup Spikes** due to marketing, seasonal trends & partnerships.
-- **Top Sponsors**: Excelerate, Illinois Institute of Technology & St. Louis Univ.
+- **Top Sponsors**: Excelerate, Illinois Institute of Technology & St. Louis University.
 - **Global Reach** with users from multiple countries & key US cities.
 - **Google Looker** enabled **real-time data visualization & interactive analytics** for tracking user engagement trends.
 - **Data-Driven Insights** for better engagement tracking & decision-making.
+
+## 👥 Project Collaboration & My Role
+This was a collaborative project completed during my internship at Excelerate, with a team of 8 members. My contributions included:
+- Participating in and guiding data cleaning and preprocessing using Excel and Google Sheets (as part of a 4-member sub-team)
+- Designing and building the interactive dashboards in Google Looker
+- Guiding visual storytelling by helping teammates interpret the key visuals and structure insights effectively 
 
 ## 📂 Project Structure
 ```
